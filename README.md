@@ -1,0 +1,2 @@
+# nduts
+ngopi dan santai
